@@ -1,4 +1,3 @@
-### Code will be released soon！！！
 ### Alternating Spatial-Frequency Transformer
 Paper name：Neutralizing Atmospheric Turbulence in Optical Imaging through Alternating Spatial-Frequency Learning
 
