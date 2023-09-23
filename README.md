@@ -4,7 +4,7 @@ Paper name：Neutralizing Atmospheric Turbulence in Optical Imaging through Alte
 Atmospheric turbulence is a complex phenomenon that poses challenges in optical imaging, particularly in applications like astronomy, remote sensing, and surveillance. The ASF-Transformer is designed to tackle this challenge head-on.
 
 #### Key Features:
-- **Learning Alternating in Spatial and Frequency Domains (LASF) Mechanism**: Inspired by the principles of split-step propagation and correlated imaging, ASF-Transformer includes the LASF mechanism, which alternately implements self-attention in both spatial and Fourier domains.
+- **Alternating Learning in Spatial and Frequency Domains (LASF) Mechanism**: Inspired by the principles of split-step propagation and correlated imaging, ASF-Transformer includes the LASF mechanism, which alternately implements self-attention in both spatial and Fourier domains.
 - **Enhanced Texture Recovery**: Assisted by Patch FFT loss, the ASF-Transformer can recover intricate textures without the need for generative adversarial schemes.
 - **State-of-the-art Performance**: Evaluations across diverse test mediums show the model's superior performance compared to recent turbulence removal methods.
 
