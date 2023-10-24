@@ -11,14 +11,3 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 #### Benefits:
 - **Novel Approach**: Unlike conventional GAN-based solutions, the ASF-Transformer opens a new pathway for handling real-world image degradations.
 - **Insights into Neural Network Design**: By incorporating principles from optical theory, the ASF-Transformer not only provides a solution for turbulence mitigation but also offers potential insights for future neural network design.
-
-#### How to Use:
-You can find detailed instructions for setting up and running the ASF-Transformer in our [Getting Started Guide](link-to-guide). 
-
-#### Contributions:
-We welcome contributions! Feel free to fork the repository, make your changes, and submit a pull request. Guidelines for contributing can be found [here](link-to-contributing-guidelines).
-
-#### License:
-ASF-Transformer is released under the [MIT License](link-to-license).
-
-For more information on how the ASF-Transformer can help with your optical imaging challenges, please refer to our [documentation](link-to-documentation) or get in touch with us through the [issues](link-to-issues) page.
