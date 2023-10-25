@@ -1,6 +1,5 @@
 ### Alternating Spatial-Frequency Transformer
-Paper name：Neutralizing Atmospheric Turbulence in Optical Imaging through Alternating Spatial-Frequency Learning
-
+ASF-Transformer: neutralizing the impact of atmospheric turbulence on optical imaging through alternating learning in the spatial and frequency domains
 Atmospheric turbulence is a complex phenomenon that poses challenges in optical imaging, particularly in applications like astronomy, remote sensing, and surveillance. The ASF-Transformer is designed to tackle this challenge head-on.
 
 #### Key Features:
@@ -13,7 +12,10 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 - **Insights into Neural Network Design**: By incorporating principles from optical theory, the ASF-Transformer not only provides a solution for turbulence mitigation but also offers potential insights for future neural network design.
 
 #### PPT：
-![image](https://github.com/naturezhanghn/ASFTransformer/assets/71700470/fde7a6a0-58e7-4fe1-bb5d-7b7cb1199818)
-![image](https://github.com/naturezhanghn/ASFTransformer/assets/71700470/f33fbc94-ab68-4b6d-b1d1-da3aafb0452d)
-![image](https://github.com/naturezhanghn/ASFTransformer/assets/71700470/d7d1bcef-bfe3-49ef-9dd9-16dcaa77c6d6)
-![image](https://github.com/naturezhanghn/ASFTransformer/assets/71700470/0f1891fa-0739-467f-8fc7-2846cc60bd2a)
+Presentation Slides:
+Resize the images if they appear too large for better visibility and presentation.
+
+<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/fde7a6a0-58e7-4fe1-bb5d-7b7cb1199818" width="400">
+<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/f33fbc94-ab68-4b6d-b1d1-da3aafb0452d" width="400">
+<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/d7d1bcef-bfe3-49ef-9dd9-16dcaa77c6d6" width="400">
+<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/0f1891fa-0739-467f-8fc7-2846cc60bd2a" width="400">
