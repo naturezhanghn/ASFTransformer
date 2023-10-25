@@ -19,4 +19,4 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 <br>
 <img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/d7d1bcef-bfe3-49ef-9dd9-16dcaa77c6d6" width="550">   
 <br>
-<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/0f1891fa-0739-467f-8fc7-2846cc60bd2a" width="550">  
+<img src="https://github.com/naturezhanghn/ASFTransformer/assets/71700470/0f1891fa-0739-467f-8fc7-2846cc60bd2a" width="500">  
