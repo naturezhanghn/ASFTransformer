@@ -14,35 +14,36 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 - **Insights into Neural Network Design**: By incorporating principles from optical theory, the ASF-Transformer not only provides a solution for turbulence mitigation but also offers potential insights for future neural network design.
 
 #### How to prepare the dataset：
-dataset/
-│
-└───nature_turbdata/
-    │
-    ├───algorithm_simulated_videos/
-    │   ├───test/
-    │   │   ├───*.png
-    │   │   └───*turb.png
-    │   │
-    │   ├───train/
-    │   │   ├───*.png
-    │   │   └───*turb.png
-    │   │
-    │   └───val/
-    │       ├───*.png
-    │       └───*turb.png
-    │
-    └───physical_simulated_videos/
-        ├───test/
-        │   ├───*.png
-        │   └───*turb.png
-        │
-        ├───train/
-        │   ├───*.png
-        │   └───*turb.png
-        │
-        └───val/
-            ├───*.png
-            └───*turb.png
+dataset/  
+│  
+└───nature_turbdata/  
+    │  
+    ├───algorithm_simulated_videos/  
+    │   ├───test/  
+    │   │   ├───*.png  
+    │   │   └───*turb.png  
+    │   │  
+    │   ├───train/  
+    │   │   ├───*.png  
+    │   │   └───*turb.png  
+    │   │  
+    │   └───val/  
+    │       ├───*.png  
+    │       └───*turb.png  
+    │  
+    └───physical_simulated_videos/  
+        ├───test/  
+        │   ├───*.png  
+        │   └───*turb.png  
+        │  
+        ├───train/  
+        │   ├───*.png  
+        │   └───*turb.png  
+        │  
+        └───val/  
+            ├───*.png  
+            └───*turb.png  
+
 
 #### How to Use:
 1. Install the required Python libraries: `pip install -r requirements.txt`.
