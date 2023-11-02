@@ -14,7 +14,8 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 - **Insights into Neural Network Design**: By incorporating principles from optical theory, the ASF-Transformer not only provides a solution for turbulence mitigation but also offers potential insights for future neural network design.
 
 #### How to prepare the dataset：
-'dataset/
+'''
+dataset/
 │   └── nature_turbdata/
 │       ├── algorithm_simulated_videos/
 │       │   ├── test/
@@ -35,7 +36,8 @@ Atmospheric turbulence is a complex phenomenon that poses challenges in optical 
 │           │   └── *turb.png
 │           └── val/
 │               ├── *.png
-│               └── *turb.png'
+│               └── *turb.png
+'''
 
 
 
